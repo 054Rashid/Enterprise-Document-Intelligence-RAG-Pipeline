@@ -1,0 +1,7 @@
+Procurement Policy
+
+Purchases above the department's approval threshold require manager approval before an order is placed. Vendor invoices should reference the purchase order number when a purchase order exists.
+
+Finance reconciles invoices against purchase orders and receiving records before payment. Exceptions such as missing purchase orders, duplicate invoices, or amount mismatches are routed for investigation.
+
+Vendor changes must be validated before payment information is updated. Employees should use approved procurement channels for new vendors and purchasing requests.

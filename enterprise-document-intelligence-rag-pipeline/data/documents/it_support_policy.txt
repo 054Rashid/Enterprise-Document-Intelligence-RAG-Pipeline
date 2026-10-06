@@ -1,0 +1,7 @@
+IT Support Policy
+
+Employees should create an IT support ticket for laptop, software, account-access, and connectivity issues. Tickets should include a short description, business impact, screenshots when useful, and the employee's contact information.
+
+Critical issues affecting a major business process are prioritized ahead of standard requests. The IT team targets an initial response within four business hours for standard support tickets.
+
+Employees should not share passwords or authentication codes in support tickets. For suspected security incidents, the employee should immediately contact the security response team through the approved incident channel.

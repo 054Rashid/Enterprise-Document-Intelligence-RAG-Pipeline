@@ -1,0 +1,5 @@
+Data Retention Policy
+
+Business records should be retained according to the company's approved retention schedule. Teams should avoid storing duplicate copies when an authoritative system of record is available.
+
+Access to restricted records should follow least-privilege principles. Requests for access must identify the business purpose and should be reviewed by the appropriate data owner.
